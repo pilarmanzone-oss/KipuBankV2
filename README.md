@@ -1,4 +1,4 @@
-# KipuBankv2: Smart Contract Multi-Token con Oráculo de Precios
+# KipuBankv2: Smart Contract Multi-Token
 
 ## Descripción General
 
