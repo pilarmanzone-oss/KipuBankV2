@@ -1,3 +1,5 @@
+**Language:** [English](./README.md) | [Español](./README_es.md)
+
 # KipuBankv2: Smart Contract Multi-Token
 
 ## Descripción General
