@@ -38,7 +38,7 @@ Se mejora la legibilidad y optimiza la ejecución.
 - Se aplica `try/catch` para manejar feeds que puedan fallar o devolver datos inválidos.
 
 **Motivo:**  
-Hace posible calcular montos equivalentes en USD, y evita fallas de transacción por algún error de tiempo en el oráculo.
+Hace posible calcular montos equivalentes en USD, y evita fallas de transacción por algún error temporal en el oráculo.
 
 ---
 
