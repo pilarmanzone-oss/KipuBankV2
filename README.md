@@ -91,7 +91,7 @@ constructor(address admin, address usdcAddress, uint256 initialCapUsd6)
 2. Seleccionar:
    - **Environment:** `Injected Provider - MetaMask`
    - **Network:** `Sepolia`
-3. Seleccionar `KipuBankV2.sol`.
+3. Seleccionar `KipuBankV2_es.sol`.
 4. Ingresar los parámetros del constructor.
 5. Hacer clic en **Deploy**.
 6. Confirmar en MetaMask.
