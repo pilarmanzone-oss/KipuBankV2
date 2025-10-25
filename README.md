@@ -57,7 +57,7 @@ Hace posible escalar a múltiples activos sin desplegar nuevos contratos.
 ### Conversión de Decimales y Valores
 - Se introdujo la función `_toUsd6()` que:
   - Convierte montos desde diferentes decimales de tokens (p.ej., 18, 8, 6).
-  - Aplica el precio del feed (en 8 decimales típicos de Chainlink).
+  - Aplica el precio del feed (en 8 decimales, típico de Chainlink).
   - Retorna el valor estandarizado en **decimales USDC (6)** para la contabilidad interna.
 
 **Motivo:**  
